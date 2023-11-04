@@ -11,4 +11,11 @@ Software dependencies:
   f.	Numpy
   g.	Matplotlib
   </p>
-4.	Data must be located in folder name ‘data’ in unzipped format as provided. 
+3.	Data must be located in folder name ‘data’ in unzipped format as provided. 
+
+4 (C) : It is evident from data that Nitrogen loss and NUE are inversely proportional, it can be further inferred that with increase in NUE the production of wheat crop will increase.
+The pattern also shows that if the value of NUE if greater than 0.4 the mean value of production is 32.51 MT and mean of N loss is 0.55 MT, while if NUE is less than 0.4 the mean value of production is 63.24 MT and mean of N loss is 3.81 MT demonstrating a polarity in N loss and production values with respect to NUE.
+
+5: The present analysis can be used as a sensitivity factor in estimation of wheat crop production for a region. The Nitrogen loss can be incorporated into EPIC model for calibration to produce final production estimates. 
+
+6: Name was different in NUE file for USA and Russia.
