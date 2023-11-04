@@ -2,12 +2,12 @@
 Generation of results :
 Please execute pushkar_assignment.py to reproduce the results. If you are reunning in jupyter please run pushkar_test.ipynb
 The folder name 'data' should be in same folder as code.
-
-The production raster will be 'Production.tif' as output of question1.
-The output of question 2 will be 'Counrty level production.csv'
-The output of question 3 will be 'N_output1.tif' and 'Nitrogen_plot.pdf'
-The output of question 4a will be 'N_output_4a.csv'
-The output of question 4b will be 'Rel_btw_No_Nl.pdf'
+<br>
+The production raster will be 'Production.tif' as output of question1.<br>
+The output of question 2 will be 'Counrty level production.csv'<br>
+The output of question 3 will be 'N_output1.tif' and 'Nitrogen_plot.pdf'<br>
+The output of question 4a will be 'N_output_4a.csv'<br>
+The output of question 4b will be 'Rel_btw_No_Nl.pdf'<br>
 
 Software dependencies:
 1.	Python
