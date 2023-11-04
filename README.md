@@ -1,6 +1,6 @@
 # pushkar_test
 Generation of results :
-<br>Please execute pushkar_assignment.py to reproduce the results. If you are reunning in jupyter please run pushkar_test.ipynb
+<br>Please execute pushkar_assignment.py to reproduce the results. If you are running in jupyter please run pushkar_test.ipynb
 <br>The folder name 'data' should be in same folder as code.
 <br><br>
 The production raster will be 'Production.tif' as output of question1.<br>
