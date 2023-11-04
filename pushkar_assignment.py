@@ -26,7 +26,7 @@ import numpy as np
 # In[4]:
 
 
-base=os.path.join(os.getcwd(),'..')
+base=os.path.join(os.getcwd())
 
 
 # In[5]:
