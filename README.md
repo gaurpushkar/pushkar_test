@@ -1,8 +1,8 @@
 # pushkar_test
 Generation of results :
 Please execute pushkar_assignment.py to reproduce the results. If you are reunning in jupyter please run pushkar_test.ipynb
-The folder name 'data' should be in same folder as code.
-<br>
+<br>The folder name 'data' should be in same folder as code.
+<br><br>
 The production raster will be 'Production.tif' as output of question1.<br>
 The output of question 2 will be 'Counrty level production.csv'<br>
 The output of question 3 will be 'N_output1.tif' and 'Nitrogen_plot.pdf'<br>
