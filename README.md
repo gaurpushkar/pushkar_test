@@ -12,14 +12,14 @@ The output of question 4b will be 'Rel_btw_No_Nl.pdf'<br>
 Software dependencies:
 1.	Python
 2.	Libraries
-	<P>
-  a.	Rasterio
-  b.	Geopandas
-  c.	Pandas
-  d.	Os
-  e.	Rasterstats
-  f.	Numpy
-  g.	Matplotlib
+	<P><br>
+  a.	Rasterio<br>
+  b.	Geopandas<br>
+  c.	Pandas<br>
+  d.	Os<br>
+  e.	Rasterstats<br>
+  f.	Numpy<br>
+  g.	Matplotlib<br>
   </p>
 3.	Data must be located in folder name ‘data’ in unzipped format as provided. 
 
